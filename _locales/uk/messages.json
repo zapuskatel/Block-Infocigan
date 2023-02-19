@@ -1,6 +1,6 @@
 {
 	"appName": {
-		"message": "morgenBlock",
+		"message": "Anti_Infocigan",
 		"description": "The title of the application, displayed in the web store."
 	},
 	"appDesc": {
@@ -11,10 +11,10 @@
 		"message": "uk"
 	},
 	"enableBlockButton": {
-		"message": "Блокуємо Моргенштерна"
+		"message": "Блокуємо"
 	},
 	"disableBlockButton": {
-		"message": "Перестати блокувати"
+		"message": "Перестати"
 	},
 	"refDescText": {
 		"message": "Поділися з друзями реферальной посиланням і розблоковуй можливість блокувати новини про Ольгу Бузової, або введи реферальний код твого друга."
