@@ -1,6 +1,6 @@
 {
 	"appName": {
-		"message": "morgenBlock",
+		"message": "Anti_Infocigan",
 		"description": "The title of the application, displayed in the web store."
 	},
 	"appDesc": {
@@ -11,10 +11,10 @@
 		"message": "en"
 	},
 	"enableBlockButton": {
-		"message": "Block Morgenstern"
+		"message": "Block"
 	},
 	"disableBlockButton": {
-		"message": "Unblock Morgenstern"
+		"message": "Unblock"
 	},
 	"refDescText": {
 		"message": "Share your referral code with your friends and unlock the ability to block any words, or enter your friend's referral link."
